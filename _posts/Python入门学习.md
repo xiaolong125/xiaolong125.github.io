@@ -1,3 +1,15 @@
+layout:     post
+title:      Python入门学习笔记（一）
+subtitle:   Python 入门学习笔记（一）
+date:       2018-03-08
+author:     徐小龙
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Python
+---
+
+
 # Python入门学习笔记（一）
 
 1.Python是什么类型的语言？
